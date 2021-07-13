@@ -17,7 +17,8 @@ When clicked, the user list will scroll to the left and the registration form wi
   - **Admin:** Authority to edit users
   - **SuperAdmin:** Access to all panels
 - **Enabled:** Checkbox
-- **Save User button:** Saves the user
+- **Save User button:** Saves the user. The button will not be active until all fields are filled. 
+- 
 
 ### 2. Hide Disabled User Checkbox:
 It will be blank by default. If clicked, disabled users will not be listed.
